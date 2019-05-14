@@ -1,7 +1,7 @@
-# Reinforcement Learning
+# 강화 학습
 
-## OpenAI Gym Environments
-### Creating the environments
+## OpenAI Gym 환경
+### 새로운 환경 생성
 
 To create the environment use the following code snippet:
 
