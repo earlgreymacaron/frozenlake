@@ -1,9 +1,9 @@
-# Reinforcement Learning
+# 강화 학습
 
-## OpenAI Gym Environments
-### Creating the environments
+## OpenAI Gym 환경
+### 새로운 환경 생성
 
-To create the environment use the following code snippet:
+다음 코드를 사용해서 새로운 환경을 생성합니다: 
 
 ```
 import gym
@@ -24,7 +24,7 @@ print(deeprl_hw1.envs.LEFT)
 
 will print out the number 0.
 
-### Environment Attributes
+### 환경 속성
 
 This class contains the following important attributes:
 
